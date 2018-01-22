@@ -1,0 +1,25 @@
+{
+  "name": "cardify-bimiriya",
+  "version": "1.0.0",
+  "description": "Un _plugin_ es un conjunto de scripts que expande las capacidades y la funcionalidad de una aplicación más extensa. Nuestro plugin para la Web App _Cardify_ permite ver al usuario el atributo `alt`sobre cada imagen en la que se haya hecho hover.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bimiriya-backup/cardify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bimiriya-backup/cardify/issues"
+  },
+  "homepage": "https://github.com/bimiriya-backup/cardify#readme",
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
